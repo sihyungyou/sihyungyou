@@ -1,4 +1,3 @@
-### 할 수 있다!🤩
 
 <!--
 **sihyungyou/sihyungyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
